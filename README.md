@@ -1,6 +1,7 @@
 # -
-중간 프로젝트 차명호
--
+중간 프로젝트 코드 차명호
+code 눌러서 볼 수 있음
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
