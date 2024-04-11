@@ -89,7 +89,7 @@ void main()
                 else if (a == 2)
                 {
                     system("cls");
-                    printf("원하시는 금액을 입력하세요(원) : ");
+                    printf("원하시는 금액을 입력하세요(달러) : ");
                     scanf("%d", &usd);
                     printf("\n%d 달러 --> %.4f 원\n", usd, usd * dol);
                     printf("뒤로 가기를 원하시면 1번을 눌러주세요.\n");
