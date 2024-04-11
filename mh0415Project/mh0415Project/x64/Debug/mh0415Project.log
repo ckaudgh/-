@@ -1,3 +1,0 @@
-﻿  mh01.c
-C:\Users\82104\Desktop\4-1\프밍\mh0415Project\mh01.c(17,11): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-  mh0415Project.vcxproj -> C:\Users\82104\Desktop\4-1\프밍\mh0415Project\x64\Debug\mh0415Project.exe
